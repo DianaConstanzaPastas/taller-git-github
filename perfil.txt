@@ -1,0 +1,13 @@
+Nombre: Diana Pastas
+
+Habilidades:
+- Ingeniería de Sistemas
+- Programación
+- Diseño gráfico
+- Diseño web
+- Manejo de bases de datos
+
+Objetivos:
+- Fortalecer mis conocimientos en desarrollo de software.
+- Mejorar mis habilidades en Git y GitHub.
+- Adquirir experiencia en proyectos tecnológicos.
